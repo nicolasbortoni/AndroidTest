@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAndroid</string>
+    <string name="factorial_btn_text">Calcular</string>
+    <string name="network_btn_text">Actividad</string>
+    <string name="factorial_edt_hint">Ingresar número…</string>
+    <string name="factorial_tv_result_text">El resultado de la cuenta es:</string>
+    <string name="factorial_tv_result">NaN</string>
+    <string name="event_item_default_type">0 - ON_START</string>
+    <string name="event_item_default_date">2021/04/01T16:15:00</string>
+</resources>
